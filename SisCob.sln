@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SisCob", "AsistenciaColegio\SisCob.csproj", "{09A93584-BF38-4CC8-943E-1EE28648DF05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09A93584-BF38-4CC8-943E-1EE28648DF05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09A93584-BF38-4CC8-943E-1EE28648DF05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09A93584-BF38-4CC8-943E-1EE28648DF05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09A93584-BF38-4CC8-943E-1EE28648DF05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {665060E4-9DF8-4285-BDC9-2FBE0EB9F49B}
+	EndGlobalSection
+EndGlobal

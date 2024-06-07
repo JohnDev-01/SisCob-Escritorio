@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_UpgradeWizard_Files\UpgradeWizardLog.xslt"?>
+<log>
+  <event>Get project references.</event>
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\SisCob.csproj" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\App.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\App.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\App.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\App.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\App.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\App.config" />
+  <event action="Analyze" type="Success" name="App.config" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\App.config" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\packages.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\packages.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\packages.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\packages.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\packages.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\packages.config" />
+  <event action="Analyze" type="Success" name="packages.config" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\packages.config" />
+  <event action="Analyze" type="Success" name="CrearUsuarioAdmin.resx" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\Presentation\AsistenteInstalador\Views\CrearUsuarioAdmin.resx" />
+  <event action="Analyze" type="Success" name="Empresa.resx" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\Presentation\AsistenteInstalador\Views\Empresa.resx" />
+  <event action="Analyze" type="Success" name="Instalador.resx" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\Presentation\AsistenteInstalador\Views\Instalador.resx" />
+  <event action="Analyze" type="Success" name="GenerarConexion.resx" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\Presentation\ConexionesRemotas\GenerarConexion.resx" />
+  <event action="Analyze" type="Success" name="rptQR.resx" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\Presentation\ConexionesRemotas\rptQR.resx" />
+  <event action="Analyze" type="Success" name="RealizarCopia.resx" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\Presentation\CopiaDeSeguridad\RealizarCopia.resx" />
+  <event action="Analyze" type="Success" name="RestaurarCopia.resx" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\Presentation\CopiaDeSeguridad\RestaurarCopia.resx" />
+  <event action="Analyze" type="Success" name="Courses_Controls.resx" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\Presentation\Courses\Courses_Controls.resx" />
+  <event action="Analyze" type="Success" name="AdministracionDispositivos.resx" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\Presentation\Dispositivos\AdministracionDispositivos.resx" />
+  <event action="Analyze" type="Success" name="DefinicionEmpresa.resx" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\Presentation\Empresa\DefinicionEmpresa.resx" />
+  <event action="Analyze" type="Success" name="ActivarLicencia.resx" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\Presentation\Licencias\ActivarLicencia.resx" />
+  <event action="Analyze" type="Success" name="frmInicioSesion.resx" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\Presentation\Login\frmInicioSesion.resx" />
+  <event action="Analyze" type="Success" name="MenuPrincipal.resx" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\Presentation\Menu\MenuPrincipal.resx" />
+  <event action="Analyze" type="Success" name="MigrarEstudiantes.resx" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\Presentation\Migraciones\MigrarEstudiantes.resx" />
+  <event action="Analyze" type="Success" name="admin_niveles.resx" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\Presentation\Niveles\admin_niveles.resx" />
+  <event action="Analyze" type="Success" name="AsistenciaGeneral.resx" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\Presentation\Reportes\DisenoRpt\AsistenciaGeneral.resx" />
+  <event action="Analyze" type="Success" name="ConteoGeneral.resx" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\Presentation\Reportes\DisenoRpt\ConteoGeneral.resx" />
+  <event action="Analyze" type="Success" name="rptAsistenciaEstudiantes.resx" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\Presentation\Reportes\DisenoRpt\rptAsistenciaEstudiantes.resx" />
+  <event action="Analyze" type="Success" name="rptInformeRapido.resx" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\Presentation\Reportes\DisenoRpt\rptInformeRapido.resx" />
+  <event action="Analyze" type="Success" name="rptMostrarEstudiantes.resx" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\Presentation\Reportes\DisenoRpt\rptMostrarEstudiantes.resx" />
+  <event action="Analyze" type="Success" name="Menu_Reportes.resx" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\Presentation\Reportes\Menu_Reportes.resx" />
+  <event action="Analyze" type="Success" name="AsistenciaGeneral.resx" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\Presentation\Reportes\UserControls\AsistenciaGeneral.resx" />
+  <event action="Analyze" type="Success" name="ConteoGeneral.resx" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\Presentation\Reportes\UserControls\ConteoGeneral.resx" />
+  <event action="Analyze" type="Success" name="InformeConteo.resx" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\Presentation\Reportes\UserControls\InformeConteo.resx" />
+  <event action="Analyze" type="Success" name="MostrarEstudiantes.resx" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\Presentation\Reportes\UserControls\MostrarEstudiantes.resx" />
+  <event action="Analyze" type="Success" name="Show_students.resx" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\Presentation\Students\Show_students.resx" />
+  <event action="Analyze" type="Success" name="Usuarios.resx" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\Presentation\Usuarios\Usuarios.resx" />
+  <event action="Analyze" type="Success" name="Resources.resx" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\Properties\Resources.resx" />
+  <event action="Analyze" type="Success" name="SisCob" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\SisCob.csproj" />
+  <event action="Analyze" type="Success" name="SisCob" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\SisCob.sln" />
+  <event action="Backup" type="Success" name="SisCob" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\SisCob.csproj" />
+  <event action="Upgrade" type="Success" name="Assembly References" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\SisCob.csproj" />
+  <event action="Upgrade" type="Success" name="SisCob" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\AsistenciaColegio\SisCob.csproj" />
+  <event action="Upgrade" type="Success" name="SisCob" path="C:\Users\johnk\Documents\ProgramCShar\Desarrollo_Escritorio\SistemaCobe\SisCob.sln" />
+</log>
