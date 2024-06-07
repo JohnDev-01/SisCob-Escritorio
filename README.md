@@ -19,4 +19,4 @@ SisCob es una aplicación de escritorio diseñada para complementar la app móvi
 1. Clonar el repositorio:
 
 ```bash
-git clone https://github.com/JohnDev-01/SisCob.git
+git clone https://github.com/JohnDev-01/SisCob-Escritorio.git
